@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/emerelec/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "ad370bd7018aa32bb43a",
-    "url": "/emerelec/static/js/main.e0ebe415.chunk.js"
+    "revision": "2c69a6f979a29b596ee8",
+    "url": "/emerelec/static/js/main.759b2ad2.chunk.js"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/emerelec/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/emerelec/static/media/outline-icons.ef60a4f6.woff"
-  },
-  {
     "revision": "cd6c777f1945164224dee082abaea03a",
     "url": "/emerelec/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/emerelec/static/media/outline-icons.ef60a4f6.woff"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/emerelec/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/emerelec/static/media/icons.8e3c7f55.eot"
-  },
-  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/emerelec/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/emerelec/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/emerelec/static/css/2.08784934.chunk.css"
   },
   {
-    "revision": "2bf68e8d3b39b8fbed65abc13430a499",
+    "revision": "295115874807d2a07abe5bdce60fbddc",
     "url": "/emerelec/index.html"
   }
 ];
