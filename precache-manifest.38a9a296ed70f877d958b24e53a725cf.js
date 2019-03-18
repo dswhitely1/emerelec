@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/emerelec/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "81ed9615b80ff25dffe6",
-    "url": "/emerelec/static/js/main.5887c725.chunk.js"
+    "revision": "e06546b6b6817200061f",
+    "url": "/emerelec/static/js/main.009bc997.chunk.js"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/emerelec/static/css/2.08784934.chunk.css"
   },
   {
-    "revision": "8bac351e0e89beec9ea2bed8f9e2489f",
+    "revision": "cd239086c49a52e57355a2ec74f0beff",
     "url": "/emerelec/index.html"
   }
 ];

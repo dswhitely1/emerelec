@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/emerelec/precache-manifest.8080545654760222277028db2178e954.js"
+  "/emerelec/precache-manifest.38a9a296ed70f877d958b24e53a725cf.js"
 );
 
 workbox.clientsClaim();
