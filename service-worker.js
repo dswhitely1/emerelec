@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dswhitely1/emerelec/precache-manifest.2d2431b5a4ffe191893e8fe7917713c9.js"
+  "/emerelec/precache-manifest.8080545654760222277028db2178e954.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dswhitely1/emerelec/index.html", {
+workbox.routing.registerNavigationRoute("/emerelec/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
